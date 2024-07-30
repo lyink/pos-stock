@@ -1,0 +1,8 @@
+Text(
+  'Sample Text',
+  style: TextStyle(
+    fontFamily: 'Merriweather',
+    fontWeight: FontWeight.bold,  // Optional: if you have different weights
+    fontStyle: FontStyle.italic,  // Optional: if you want italic
+  ),
+);

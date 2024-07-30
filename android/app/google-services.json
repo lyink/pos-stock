@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "644367879552",
+    "project_id": "login-5bc25",
+    "storage_bucket": "login-5bc25.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:644367879552:android:be5abd8606e745e68bc565",
+        "android_client_info": {
+          "package_name": "com.sauli.pos"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9TaDcQeZn_hyfrcX4L1nCKAus5xf52XA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

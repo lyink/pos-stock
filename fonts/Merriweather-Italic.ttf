@@ -1,0 +1,7 @@
+Text(
+  'Sample Italic Text',
+  style: TextStyle(
+    fontFamily: 'Merriweather',
+    fontStyle: FontStyle.italic, // This applies italic style
+  ),
+);
